@@ -1,0 +1,24 @@
+# Virtual Environments
+ai_env/
+venv/
+backend/venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+
+# Uploads
+backend/uploads/
+
+# Database
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
