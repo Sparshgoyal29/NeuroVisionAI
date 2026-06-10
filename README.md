@@ -1,35 +1,31 @@
-NeuroVision AI
+# 🧠 NeuroVision AI
 
 AI-Powered Brain Tumor Detection System built using React.js, Flask, TensorFlow, and SQLite.
 
-Features :
-MRI Brain Tumor Detection
-PDF Report Generation
-Analytics Dashboard
-Patient History Management
-Symptom Checker
-AI Assistant
-🛠️ Tech Stack
+## Features
+- MRI Brain Tumor Detection
+- PDF Report Generation
+- Analytics Dashboard
+- Patient History
+- Symptom Checker
+- AI Assistant
 
-Frontend: React.js, JavaScript, Chart.js, jsPDF
+## Tech Stack
+- React.js
+- Flask
+- TensorFlow / Keras
+- SQLite
+- Chart.js
+- jsPDF
 
-Backend: Flask, Python, REST API
-
-AI/ML: TensorFlow, Keras, CNN
-
-Database: SQLite
-
-Model :
-Convolutional Neural Network (CNN)
-Supervised Learning
+## Model
+CNN (Convolutional Neural Network)
 
 Classes:
-Glioma
-Meningioma
-Pituitary
-No Tumor
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
 
-Developer :
-Sparsh Goyal
-
-Developed as a full-stack healthcare AI platform for MRI-based brain tumor detection and analytics.
+## Developer
+**Sparsh Goyal**
